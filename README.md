@@ -5,6 +5,9 @@
 
 https://blogmeublog.herokuapp.com/swagger-ui/
 
+-Nome do Usuario = root
+-Senha = root
+
 É uma aplicação básica inspirada em uma rede social onde o usuário poderá criar um perfil e nele fazer postagens e escolher o tema dessas postagens
 
 ## Modelo conceitual
